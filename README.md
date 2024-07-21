@@ -1,7 +1,5 @@
 
-
-
-![MasterHead](https://camo.githubusercontent.com/44957fe9724cc8b36fc1a11e104bc080618ff645d73746a66a6b44d73d7992f1/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
+[![MasterHead](https://camo.githubusercontent.com/44957fe9724cc8b36fc1a11e104bc080618ff645d73746a66a6b44d73d7992f1/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)](TheCodeWiz)
 
 
 # 💫 About Me:
@@ -27,6 +25,8 @@ I'm currently working on Portfolio Website and Game Development<br>I'm currently
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->---
 
 <!--
 **TheCodeWiz/TheCodeWiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
