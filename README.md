@@ -25,7 +25,7 @@ I'm currently working on Portfolio Website and Game Development<br>I'm currently
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **TheCodeWiz/TheCodeWiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
