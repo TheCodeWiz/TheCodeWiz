@@ -6,7 +6,7 @@
 </h1>
 
 # 💫 About Me:
-I'm currently working on Portfolio Website and Game Development<br>I'm currently learning Javascript<br>
+I'm currently working on Developing a Game<br>I'm currently learning React JS<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=TheCodeWiz&icon=0&color=0)](https://visitcount.itsvg.in)
