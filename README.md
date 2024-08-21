@@ -2,7 +2,7 @@
 [![MasterHead](https://camo.githubusercontent.com/44957fe9724cc8b36fc1a11e104bc080618ff645d73746a66a6b44d73d7992f1/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)](TheCodeWiz)
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=300&size=30&duration=3500&pause=1000&color=05C7FFF5&background=4DEFFF00&center=true&vCenter=true&width=1000&height=70&lines=Hi+There!+👋;I'm+Manav+Bhatt!;I'm+a+passionate+frontend+developer+from+india!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=300&size=30&duration=3500&pause=1000&color=05C7FFF5&background=4DEFFF00&center=true&vCenter=true&width=1000&height=70&lines=Hi+There!+👋;I'm+Manav+Bhatt!;I'm+a+Passionate+Frontend+Developer+from+India!" alt="Typing SVG" />
 </h1>
 
 # 💫 About Me:
