@@ -24,6 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-bhatt1409/)
 [![X/Twitter](https://img.shields.io/badge/-X-black?style=flat-square&logo=X&logoColor=white)](https://x.com/ManavBhatt_1409)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/manav_bhatt_1409)
 
 ---
 
@@ -87,7 +88,6 @@
 </p>
 
 ---
-
 > _"Stay curious, stay consistent — and always keep building."_  
 > <sub><i>– Manav Bhatt</i></sub>
 
