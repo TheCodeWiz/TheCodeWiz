@@ -1,10 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=TheCodeWiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi, I'm Manav Bhatt 👋</h1>
-<h3 align="center">Frontend Developer | DSA Enthusiast | Lifelong Learner</h3>
+<h3 align="center"> Developer | AI Tools Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&pause=1000&color=05C7FF&center=true&vCenter=true&width=900&height=50&lines=Frontend+Developer+with+a+Flair+for+UI/UX;Exploring+Full+Stack+Development+Project+by+Project;Game+Development+Explorer+by+Curiosity;Daily+DSA+Practitioner+and+Problem+Solver;Stock+Market+Trader+%26+Brainstorming+Addict;Always+Learning,+Always+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&pause=1000&color=05C7FF&center=true&vCenter=true&width=900&height=50&lines=Frontend+Developer+with+a+Flair+for+UI/UX;Exploring+Full+Stack+Development+Project+by+Project;Game+Development+Explorer+by+Curiosity;Problem+Solver;Stock+Market+Trader+%26+Brainstorming+Addict;Always+Learning,+Always+Building!" alt="Typing SVG" />
 </p>
 
 ---
